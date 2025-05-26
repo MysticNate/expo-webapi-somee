@@ -1,0 +1,17 @@
+C:\Users\netan\Desktop\Semester_2\React Native\my-shop\WebApplication1\obj\Release\net8.0\PubTmp\Out\WebApplication1.exe
+C:\Users\netan\Desktop\Semester_2\React Native\my-shop\WebApplication1\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\netan\Desktop\Semester_2\React Native\my-shop\WebApplication1\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\netan\Desktop\Semester_2\React Native\my-shop\WebApplication1\obj\Release\net8.0\PubTmp\Out\WebApplication1.dll
+C:\Users\netan\Desktop\Semester_2\React Native\my-shop\WebApplication1\obj\Release\net8.0\PubTmp\Out\WebApplication1.deps.json
+C:\Users\netan\Desktop\Semester_2\React Native\my-shop\WebApplication1\obj\Release\net8.0\PubTmp\Out\WebApplication1.runtimeconfig.json
+C:\Users\netan\Desktop\Semester_2\React Native\my-shop\WebApplication1\obj\Release\net8.0\PubTmp\Out\WebApplication1.pdb
+C:\Users\netan\Desktop\Semester_2\React Native\my-shop\WebApplication1\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\netan\Desktop\Semester_2\React Native\my-shop\WebApplication1\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\netan\Desktop\Semester_2\React Native\my-shop\WebApplication1\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\netan\Desktop\Semester_2\React Native\my-shop\WebApplication1\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\netan\Desktop\Semester_2\React Native\my-shop\WebApplication1\obj\Release\net8.0\PubTmp\Out\System.Data.SqlClient.dll
+C:\Users\netan\Desktop\Semester_2\React Native\my-shop\WebApplication1\obj\Release\net8.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+C:\Users\netan\Desktop\Semester_2\React Native\my-shop\WebApplication1\obj\Release\net8.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+C:\Users\netan\Desktop\Semester_2\React Native\my-shop\WebApplication1\obj\Release\net8.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+C:\Users\netan\Desktop\Semester_2\React Native\my-shop\WebApplication1\obj\Release\net8.0\PubTmp\Out\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\netan\Desktop\Semester_2\React Native\my-shop\WebApplication1\obj\Release\net8.0\PubTmp\Out\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
